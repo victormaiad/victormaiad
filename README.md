@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<br> <!--Quebrar Linhas apenas-->
+## <!--Linha-->
 
 ### Tecnologias:
 <div style="display: inline_block">
@@ -19,7 +19,7 @@
   <img align="center" alt="vitin-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
  
-<br> <!--Quebrar Linhas apenas-->
+## <!--Linha-->
  
 ### Contatos e Redes:
 <div> 
