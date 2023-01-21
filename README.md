@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=victormaiad&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaiad&layout=compact&langs_count=7&theme=cobalt"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=victormaiad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaiad&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
